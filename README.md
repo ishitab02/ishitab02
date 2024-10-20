@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishita</h1>
 <h3 align="center">a web developer and an ML enthusiast</h3>
 
-<img align="right" alt="coding" width="100" src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
+<img align="right" alt="coding" width="200" src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishitab02&label=Profile%20views&color=0e75b6&style=flat" alt="ishitab02" /> </p>
 
