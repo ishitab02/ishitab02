@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishita</h1>
-<h3 align="center">a web developer and an ML enthusiast</h3>
+<h3 align="center">an ML enthusiast</h3>
 
 <img align="right" alt="coding" width="250" src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
 
